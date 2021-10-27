@@ -73,3 +73,6 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
   console.log('Running genius machanics server on port',port)
 })
+
+// DB_USER=geniusMechanic
+// DB_PASS=DZCFwuXa9NpUbNxp
